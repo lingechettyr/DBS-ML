@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="DownloadImage">
+    <file>Graphs/Graph1.jpg</file>
+    <file>Graphs/Graph2.jpg</file>
+    <file>Graphs/Graph3.jpg</file>
+    <file>Graphs/Graph4.jpg</file>
+    <file>graph.png</file>
+    <file>DownloadInverted.png</file>
+    <file>Quit.png</file>
+    <file>Download.png</file>
+    <file>Parameter.png</file>
+  </qresource>
+</RCC>
