@@ -1,0 +1,15 @@
+{
+    "regression": 0,
+    "num_ecs": 11,
+    "num_fsds": 11,
+    "num_ssds": 11,
+    "num_layers": 2,
+    "neurons": 306,
+    "dropout": 0.0,
+    "act_func": "tanh",
+    "l_rate": 0.0001,
+    "epochs": 100,
+    "batch_size": 128,
+    "train_ds": "datasets/7-5/train_orth/class/ds_orth_pw_1_ec_train_20_100_10.csv",
+    "val_ds": "datasets/7-5/val_orth/class/ds_orth_pw_1_ec_train_20_100_10.csv"
+}
